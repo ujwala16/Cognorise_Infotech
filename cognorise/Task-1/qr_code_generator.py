@@ -31,7 +31,7 @@ def decode_qr_code(file_name):
     return data
 
 # Example usage
-data_to_encode = "Hello, This is the QR Code! that you generated"
+data_to_encode = "Hello, This is the QR Code! that you generated here is the link to find the code: https://github.com/ujwala16"
 qr_file = "my_qr_code.png"
 
 # Generate QR Code

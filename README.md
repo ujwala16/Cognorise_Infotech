@@ -10,10 +10,11 @@ This project implements a QR code generator and decoder using Python. It include
    ```bash
    pip install qrcode[pil]
    pip install opencv-python
+   pip install streamlit
    ```
 2. Run the QR code generator and decoder script:
    ```bash
-   python qr_code_generator.py
+   streamlit run qr_code_generator.py
    ```
 
 # Task 2: Calculator

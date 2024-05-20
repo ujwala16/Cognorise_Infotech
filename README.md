@@ -25,7 +25,7 @@ This project implements a simple calculator with basic arithmetic operations. Us
 # Commands to Run
 1. Run the calculator script:
    ```bash
-   python calculator.py
+   python Calculator.py
    ```
 
 # Task 3: Password Generator
